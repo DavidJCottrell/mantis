@@ -1,0 +1,6 @@
+[submodule "mantis-web-app"]
+	path = mantis-web-app
+	url = https://github.com/DavidJCottrell/mantis-web-app.git
+[submodule "mantis-api"]
+	path = mantis-api
+	url = https://github.com/DavidJCottrell/mantis-api.git
